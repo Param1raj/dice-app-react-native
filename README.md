@@ -44,9 +44,16 @@ yarn ios
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 You should be able to see the app like this.
-![App Screenshot](./assets/Screenshot_20240131_184500_rollingDice.jpg)
-![App Screenshot](./assets/Screenshot_20240131_184540_rollingDice.jpg)
-![App Screenshot](./assets/Screenshot_20240131_184513_rollingDice.jpg)
+
+<p align="center">
+  <img src="./assets/Screenshot_20240131_184500_rollingDice.jpg" width="350" title="App Screenshot">
+  <img src="./assets/Screenshot_20240131_184540_rollingDice.jpg" width="350" title="App Screenshot">
+  <img src="./assets/Screenshot_20240131_184513_rollingDice.jpg" width="350" title="App Screenshot">
+  <!-- <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
+<!-- ![App Screenshot](./assets/Screenshot_20240131_184500_rollingDice.jpg) -->
+<!-- ![App Screenshot](./assets/Screenshot_20240131_184540_rollingDice.jpg) -->
+<!-- ![App Screenshot](./assets/Screenshot_20240131_184513_rollingDice.jpg) -->
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
